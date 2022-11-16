@@ -30,7 +30,7 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
           <span>Hikmet Can Öyke</span>
           <span>
-            Hello, thank you for visiting my site. I am a 2nd year computer engineering student at Çukurova University and I am a person who strives to improve myself day by day and attaches great importance to his career and development. My areas of interest are web programming, machine learning, and artificial intelligence. I am trying to have ideas in many areas.
+            Hello, thank you for visiting my site. I am a 3nd year computer engineering student at Çukurova University and I am a person who strives to improve myself day by day and attaches great importance to his career and development. My areas of interest are web programming, machine learning, and artificial intelligence. I am trying to have ideas in many areas.
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
