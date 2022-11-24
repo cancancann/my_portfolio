@@ -27,7 +27,7 @@ const Intro = () => {
       <div className="i-left">
         <div className="i-name">
           {/* yahan change hy darkmode ka */}
-          <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
+          <span style={{ color: darkMode ? "white" : "" }}>Hey! I Am</span>
           <span>Hikmet Can Öyke</span>
           <span>
             Hello, thank you for visiting my site. I am a 3nd year computer engineering student at Çukurova University and I am a person who strives to improve myself day by day and attaches great importance to his career and development. My areas of interest are web programming, machine learning,artificial intelligence and backend programming. I am trying to have ideas in many areas.
